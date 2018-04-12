@@ -6,7 +6,7 @@ Para usar com o Sublime Text no Windows, é necessário adicioná-lo às variáv
 
 Para usar o GIT dentro do Sublime, esse [tutorial ajuda](https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow)
 
-Para adicionar atalho PUSH em tags dentro do sublime, precisa-se adicionar o código abaixo em um novo arquivo com a extensão **.sublime-commands** salvo na pasta `User` dentro de `Preferences > Browse Packages`
+Para adicionar atalho PUSH em tags dentro do sublime, precisa-se adicionar o código abaixo em um novo arquivo com a extensão **.sublime-commands** salvo na pasta `User` dentro de `Preferences > Browse Packages`.
 
 ```
 [
